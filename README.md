@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=MTLantoine&show_icons=true&theme=dark)
+</br>
+![Antoine's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MTLantoine&layout=compact&show_icons=true&hide=html&theme=dark)
